@@ -1,0 +1,330 @@
+# 📜 License
+
+The Flutter Boilerplate is available under different licensing options to meet your project needs. Choose the license that best fits your use case:
+
+## 🔑 License Options
+
+### Free Version (MIT License)
+The Flutter Boilerplate free version is licensed under the MIT License, a permissive open source license that allows for maximum flexibility while providing basic liability protections. Perfect for open source projects, learning, and getting started with Flutter development.
+
+<Accordion title="MIT License">
+MIT License
+
+Copyright (c) 2026 FDEV LLC (Fikret Şengül) (Template Author)
+Copyright (c) 2026 [PROJECT_OWNER] (Generated Project Owner)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+TEMPLATE ATTRIBUTION:
+This project was generated using Flutter Boilerplate CLI (https://flutterboilerplate.dev)
+Boilerplate originally created by FDEV LLC (Fikret Şengül).
+Generated code belongs to the project owner and may be used without restriction.
+
+CONTACT INFORMATION:
+Company: FDEV LLC<br /><br />
+Address: 1209 MOUNTAIN ROAD PL NE STE N, ALBUQUERQUE, NM 87110, United States<br /><br />
+Creator: Fikret Şengül<br /><br />
+Boilerplate Website: [flutterboilerplate.dev](https://flutterboilerplate.dev)<br /><br />
+Company Website: [fdev.llc](https://fdev.llc)<br /><br />
+Sales, Support and Legal Contact Email: weare@fdev.llc
+
+By purchasing, downloading, or using this Software, Licensee acknowledges
+that they have read, understood, and agreed to be bound by all terms and
+conditions of this License.
+
+Last Updated: January 2026
+</Accordion>
+
+### Advanced Version (Commercial License)
+The Flutter Advanced Boilerplate is available under a commercial license for professional and enterprise use. Designed for commercial applications, enterprise usage, and professional development with enhanced features and support.
+
+
+<Accordion title="Commercial License">
+FLUTTER ADVANCED BOILERPLATE COMMERCIAL LICENSE
+Version 1.0
+
+Copyright (c) 2026 FDEV LLC (Fikret Şengül)
+All rights reserved.
+
+GRANT OF LICENSE
+
+Subject to the terms and conditions of this License, FDEV LLC, a limited liability
+company organized under the laws of New Mexico, United States ("Licensor") hereby
+grants to the individual or entity that has purchased a valid license ("Licensee")
+a limited, non-exclusive, non-transferable license to use the Flutter Advanced
+Boilerplate Premium templates, code generators, and associated tools ("Software")
+for the purposes set forth below.
+
+PERMITTED USES
+
+1. COMMERCIAL DEVELOPMENT: Licensee may use the Software to create, develop,
+   and deploy commercial applications, including mobile apps, web applications,
+   and software-as-a-service products.
+
+2. ENTERPRISE USAGE: Licensee may use the Software within their organization
+   for internal business purposes and client projects.
+
+3. REVENUE GENERATION: Applications built using the Software may be sold,
+   licensed, or monetized without restriction.
+
+4. MODIFICATION: Licensee may modify, customize, and extend the generated code
+   for their specific needs.
+
+5. DEPLOYMENT: Applications built with the Software may be distributed through
+   app stores, web hosting, or any distribution channel worldwide.
+
+6. MULTI-JURISDICTIONAL USE: Licensee may use the Software and deploy applications
+   in any country, subject to applicable local laws and export regulations.
+
+PROHIBITED USES
+
+1. RESALE PROHIBITION: Licensee shall NOT sell, license, distribute, or
+   otherwise transfer the original Software, templates, or code generators
+   to any third party.
+
+2. REBRANDING PROHIBITION: Licensee shall NOT rebrand, repackage, or present
+   the Software as their own creation or under a different product name.
+
+3. TEMPLATE DISTRIBUTION: Licensee shall NOT distribute the original templates,
+   Mason bricks, or boilerplate code as standalone products.
+
+4. COMPETITIVE PRODUCTS: Licensee shall NOT use the Software to create
+   competing code generation tools, template libraries, or boilerplate
+   products.
+
+5. REVERSE ENGINEERING: Licensee shall NOT reverse engineer, decompile, or
+   attempt to derive the source code of the CLI tool or generation algorithms.
+
+6. SUBLICENSING: Licensee shall NOT sublicense, rent, lease, or lend the Software
+   to any third party.
+
+OWNERSHIP AND INTELLECTUAL PROPERTY
+
+1. The Software, templates, and all intellectual property therein remain the
+   exclusive property of FDEV LLC.
+
+2. Generated code becomes the property of the Licensee, subject to the
+   restrictions outlined in this License.
+
+3. Licensee retains full ownership of their applications built using the
+   generated code.
+
+4. Any improvements, modifications, or derivative works of the Software itself
+   (not generated code) remain the property of FDEV LLC.
+
+LICENSE TIERS
+
+WILL BE UPDATED SOON!
+
+COMPLIANCE AND ATTRIBUTION
+
+1. Licensee must retain copyright notices in generated files.
+2. Licensee must include this license file in distributed applications.
+3. Public acknowledgment of Flutter Advanced Boilerplate usage is appreciated
+   but not required.
+4. Licensee must maintain records of license usage for audit purposes.
+
+DATA PRIVACY AND SECURITY
+
+1. FDEV LLC does not collect or store personal data from generated applications.
+2. Licensee is responsible for ensuring their applications comply with applicable
+   data privacy laws (GDPR, CCPA, etc.).
+3. Authentication data for CLI access is securely processed and stored.
+
+EXPORT CONTROL
+
+Licensee acknowledges that the Software may be subject to United States export
+control laws and agrees to comply with all applicable export control regulations.
+Licensee shall not export, re-export, or transfer the Software to any prohibited
+country, entity, or individual as specified by US export control laws.
+
+WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. LICENSOR
+DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+ERROR-FREE OR UNINTERRUPTED.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL FDEV LLC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS;
+OR BUSINESS INTERRUPTION) ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE
+SOFTWARE, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT. TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT PAID
+FOR THE LICENSE IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+INDEMNIFICATION
+
+Licensee agrees to indemnify, defend, and hold harmless FDEV LLC from any
+claims, damages, or expenses arising from Licensee's use of the Software or
+violation of this License.
+
+TERMINATION
+
+1. This License automatically terminates if Licensee violates any terms.
+2. FDEV LLC may terminate this License with thirty (30) days written notice.
+3. Upon termination, Licensee must cease all use of the Software and destroy
+   all copies.
+4. Generated code and applications created before termination may continue
+   to be used and maintained.
+
+UPDATES AND SUPPORT
+
+1. Updates are provided at FDEV LLC's discretion and may require additional fees.
+2. Support is provided according to the license tier purchased.
+3. FDEV LLC reserves the right to discontinue support for older versions.
+
+GOVERNING LAW AND JURISDICTION
+
+This License shall be governed by and construed in accordance with the laws
+of the State of New Mexico, United States, without regard to its conflict of
+law principles. Any legal action or proceeding arising under this License
+shall be brought exclusively in the federal or state courts located in
+Albuquerque, New Mexico, and the parties hereby consent to the personal
+jurisdiction and venue therein.
+
+ENTIRE AGREEMENT
+
+This License constitutes the entire agreement between the parties and supersedes
+all prior or contemporaneous understandings regarding the subject matter hereof.
+This License may only be modified by a written agreement signed by both parties.
+
+SEVERABILITY
+
+If any provision of this License is held to be unenforceable, such provision
+shall be reformed only to the extent necessary to make it enforceable, and
+the remainder of this License shall remain in full force and effect.
+
+CONTACT INFORMATION
+
+Company: FDEV LLC
+Address: 1209 MOUNTAIN ROAD PL NE STE N, ALBUQUERQUE, NM 87110, United States
+Creator: Fikret Şengül
+Boilerplate Website: [flutterboilerplate.dev](https://flutterboilerplate.dev)
+Company Website: [fdev.llc](https://fdev.llc)
+Sales, Support and Legal Contact Email: weare@fdev.llc
+
+By purchasing, downloading, or using this Software, Licensee acknowledges
+that they have read, understood, and agreed to be bound by all terms and
+conditions of this License.
+
+Last Updated: January 2026
+</Accordion>
+
+### Commercial License Overview
+
+The Flutter Advanced Boilerplate Commercial License grants you the right to use our premium templates and tools for commercial purposes while protecting our intellectual property.
+
+**Key Features:**
+- ✅ Commercial development and deployment
+- ✅ Enterprise usage
+- ✅ Revenue generation
+- ✅ Code modification rights
+- ✅ Worldwide distribution
+- ✅ Client project usage
+
+**Restrictions:**
+- ❌ Resale of original templates
+- ❌ Rebranding as your product
+- ❌ Template redistribution
+- ❌ Creating competing products
+
+## 📋 Usage Guidelines
+
+### For Free Version Users
+
+1. **Attribution**: While not required by the MIT license, we appreciate attribution when you use the boilerplate in your projects.
+
+2. **Contributions**: If you make improvements to the boilerplate that might benefit others, consider contributing them back to the main project.
+
+3. **Commercial Use**: You're free to use the free version in commercial projects without restriction.
+
+4. **No Warranty**: Remember that the code is provided "as is" without warranty of any kind.
+
+### For Advanced Version Users
+
+1. **License Compliance**: You must retain copyright notices in generated files and include the license file in distributed applications.
+
+2. **Audit Records**: Maintain records of license usage for audit purposes.
+
+3. **Export Control**: Comply with all applicable US export control regulations.
+
+4. **Support**: Contact our support team for assistance with implementation and troubleshooting.
+
+## ❓ Frequently Asked Questions
+
+<Accordion title="Can I use the free version for commercial projects?">
+Yes! The MIT license allows commercial use without restrictions. You can build and sell applications using the free version.
+</Accordion>
+
+<Accordion title="What's the difference between free and advanced versions?">
+The advanced version includes enhanced templates, additional code generators, priority support, and enterprise-grade features. The free version provides core functionality with basic templates.
+</Accordion>
+
+<Accordion title="Can I upgrade from free to advanced?">
+Yes, you can upgrade at any time. Contact us at weare@fdev.llc for upgrade options and pricing.
+</Accordion>
+
+<Accordion title="Do I need to display attribution?">
+For the free version, attribution is appreciated but not required. For the advanced version, you must retain copyright notices in generated files.
+</Accordion>
+
+## 🔗 Third-Party Licenses
+
+Both versions incorporate several third-party open source libraries, each with its own license. Please review the license information for each dependency when using the boilerplate in your projects.
+
+<Accordion title="Major dependencies">
+- **Flutter SDK:** [BSD License](https://github.com/flutter/flutter/blob/master/LICENSE)
+- **Dart SDK:** [BSD License](https://github.com/dart-lang/sdk/blob/master/LICENSE)
+- **auto_route:** [MIT License](https://github.com/Milad-Akarie/auto_route_library/blob/master/LICENSE)
+- **cupertino_icons:** [MIT License](https://github.com/devoncarew/cupertino_icons/blob/master/LICENSE)
+- **dio:** [MIT License](https://github.com/cfug/dio/blob/main/LICENSE)
+- **envied:** [MIT License](https://github.com/petercinibulk/envied/blob/main/LICENSE)
+- **flex_color_scheme:** [BSD-3-Clause License](https://github.com/rydmike/flex_color_scheme/blob/master/LICENSE)
+- **flutter_bloc:** [MIT License](https://github.com/felangel/bloc/blob/master/LICENSE)
+- **flutter_native_splash:** [MIT License](https://github.com/jonbhanson/flutter_native_splash/blob/master/LICENSE)
+- **flutter_svg:** [MIT License](https://github.com/dnfield/flutter_svg/blob/master/LICENSE)
+- **fpdart:** [MIT License](https://github.com/SandroMaglione/fpdart/blob/main/packages/fpdart/LICENSE)
+- **freezed:** [MIT License](https://github.com/rrousselGit/freezed/blob/master/packages/freezed/LICENSE)
+- **freezed_annotation:** [MIT License](https://github.com/rrousselGit/freezed/blob/master/packages/freezed_annotation/LICENSE)
+- **get_it:** [MIT License](https://github.com/fluttercommunity/get_it/blob/master/LICENSE)
+- **hydrated_bloc:** [MIT License](https://github.com/felangel/bloc/blob/master/LICENSE)
+- **infinite_scroll_pagination:** [MIT License](https://github.com/EdsonBueno/infinite_scroll_pagination/blob/master/LICENSE)
+- **injectable:** [MIT License](https://github.com/Milad-Akarie/injectable/blob/master/LICENSE)
+- **json_annotation:** [BSD-3-Clause License](https://github.com/google/json_serializable.dart/blob/master/LICENSE)
+- **lottie:** [MIT License](https://github.com/xvrh/lottie-flutter/blob/master/LICENSE)
+- **package_info_plus:** [BSD-3-Clause License](https://github.com/fluttercommunity/plus_plugins/blob/main/packages/package_info_plus/package_info_plus/LICENSE)
+- **path_provider:** [BSD-3-Clause License](https://github.com/flutter/packages/blob/main/packages/path_provider/path_provider/LICENSE)
+- **slang, slang_flutter:** [MIT License](https://github.com/slang-i18n/slang/blob/main/LICENSE)
+- **talker, talker_bloc_logger, talker_dio_logger:** [MIT License](https://github.com/Frezyx/talker/blob/master/LICENSE)
+</Accordion>
+
+## 📬 Contact Information
+
+**Company:** FDEV LLC<br/>
+**Email:** weare@fdev.llc<br/>
+**Website:** [fdev.llc](https://fdev.llc)<br/>
+**Address:** 1209 MOUNTAIN ROAD PL NE STE N ALBUQUERQUE, NM 87110, US
+
+---
+
+*Last Updated: January 2026*
