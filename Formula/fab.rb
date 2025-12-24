@@ -8,24 +8,24 @@
 class Fab < Formula
   desc "Flutter Advanced Boilerplate CLI - Create production-ready Flutter projects"
   homepage "https://github.com/fdev-llc/fab"
-  version "2.0.0"
+  version "2.0.0-alpha"
   license :cannot_represent  # Proprietary/closed-source
 
   on_macos do
     on_intel do
-      url "https://github.com/fdev-llc/fab/releases/download/v2.0.0/fab-macos-x64"
-      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+      url "https://github.com/fdev-llc/fab/releases/download/v2.0.0-alpha/fab-macos-x64"
+      sha256 "82108ac7d9c4c0216a954287596093bae3f88d41d7330520d8152da9b789508c"
     end
 
     on_arm do
-      url "https://github.com/fdev-llc/fab/releases/download/v2.0.0/fab-macos-arm64"
+      url "https://github.com/fdev-llc/fab/releases/download/v2.0.0-alpha/fab-macos-arm64"
       sha256 "0000000000000000000000000000000000000000000000000000000000000000"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/fdev-llc/fab/releases/download/v2.0.0/fab-linux-x64"
+      url "https://github.com/fdev-llc/fab/releases/download/v2.0.0-alpha/fab-linux-x64"
       sha256 "0000000000000000000000000000000000000000000000000000000000000000"
     end
   end
