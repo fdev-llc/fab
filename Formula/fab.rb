@@ -19,7 +19,7 @@ class Fab < Formula
 
     on_arm do
       url "https://github.com/fdev-llc/fab/releases/download/v2.0.0-alpha/fab-macos-arm64"
-      sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+      sha256 "bb4d34a7a9068b44e89ec301d98be569d4663d7bf7affc00c1432216a81e35d0"
     end
   end
 
