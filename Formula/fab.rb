@@ -14,12 +14,12 @@ class Fab < Formula
   on_macos do
     on_intel do
       url "https://github.com/fdev-llc/fab/releases/download/v2.0.0-alpha/fab-macos-x64"
-      sha256 "82108ac7d9c4c0216a954287596093bae3f88d41d7330520d8152da9b789508c"
+      sha256 "6841a5901553671395854338b70eb6fd95ea182e959b414eba2d709104442b35"
     end
 
     on_arm do
       url "https://github.com/fdev-llc/fab/releases/download/v2.0.0-alpha/fab-macos-arm64"
-      sha256 "bb4d34a7a9068b44e89ec301d98be569d4663d7bf7affc00c1432216a81e35d0"
+      sha256 "2c0dd088976e1c793839be9eb4b38da7fe1e77d13af864b62d10935c99779286"
     end
   end
 
